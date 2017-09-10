@@ -6,14 +6,14 @@ If you want to decrypt your encrypted text you need to click "Decrypt"
 
 ## Purpose of Files
 
-File's name  | Content
+File's name     | Content
 ----------------|----------------------
 Cyphers.cs      | Class that contains different cyphers(encrypting and decrypting using Caesar)
 CryptoCyphers.cs| Contains the work with the buttons, textboxes etc.
-Decode.cs   | Class that contains ***frequency analysis*** for breaking encrypted text(without using a key)
-Program.cs | Class that contains `Main()`
-basetext.txt| Contains English text
-basetable.txt| Contains frequencies of biagrams
+Decode.cs       | Class that contains ***frequency analysis*** for breaking encrypted text(without using a key)
+Program.cs      | Class that contains `Main()`
+basetext.txt    | Contains English text
+basetable.txt   | Contains frequencies of biagrams
 
 ## App
 
